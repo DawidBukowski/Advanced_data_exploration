@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\dawib\\PycharmProjects\\Advanced_Data_Exploration_Dawid_Bukowski\\logs\\.91da8edbab445e4d5dedf819ca8a15d627b8b760-audit.json",
+    "files": [
+        {
+            "date": 1792579635748,
+            "name": "C:\\Users\\dawib\\PycharmProjects\\Advanced_Data_Exploration_Dawid_Bukowski\\logs\\mcp-puppeteer-2026-10-21.log",
+            "hash": "e8cbabacbb7922f84919d854b8299def92fc5a2a8bc326f36943ebbe5ab8e8c6"
+        }
+    ],
+    "hashType": "sha256"
+}
