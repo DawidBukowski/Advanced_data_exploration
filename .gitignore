@@ -1,0 +1,32 @@
+# środowiska wirtualne
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# dane / wyniki wygenerowane
+data/
+logs/
+models/
+
+# modele / artefakty
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# systemowe
+.DS_Store
+Thumbs.db
